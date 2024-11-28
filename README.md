@@ -12,18 +12,18 @@ I have Codecademy certificates:
 2)Learn PHP Skill Path: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/9b7bcc38d0ed49f593228763cbfd51e3
 
 
-JAVASCRIPT PART
+# JAVASCRIPT PART
 
 1)Learn Intermediate JavaScript Course: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/512386fdc7f6c934f98b01e6afa8285a
 
 2)Learn JavaScript Course: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/705dcb15de0da4dd9d9fc4f3274b430e
 
 
-(UDEMY)
-HTML/CSS
+# (UDEMY)
+# HTML/CSS
 
 1)learn html/css for beginner: https://www.udemy.com/certificate/UC-593403a9-bf41-4c23-a24c-63f55b924c5a/
 
-LINUX
+# LINUX
 
 1)Learn Linux: https://www.udemy.com/certificate/UC-7a937ba9-c03f-49e4-8961-8b627a98ea78/
