@@ -23,3 +23,7 @@ JAVASCRIPT PART
 HTML/CSS
 
 1)learn html/css for beginner: https://www.udemy.com/certificate/UC-593403a9-bf41-4c23-a24c-63f55b924c5a/
+
+LINUX
+
+1)Learn Linux: https://www.udemy.com/certificate/UC-7a937ba9-c03f-49e4-8961-8b627a98ea78/
