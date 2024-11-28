@@ -19,10 +19,10 @@ I have Codecademy, freecampcode, and udemy certificates:
 2)Learn JavaScript Course: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/705dcb15de0da4dd9d9fc4f3274b430e
 
 
-# HTML/CSS
+# HTML/CSS PART
 
 1)learn html/css for beginner: https://www.udemy.com/certificate/UC-593403a9-bf41-4c23-a24c-63f55b924c5a/
 
-# LINUX
+# LINUX PART
 
 1)Learn Linux: https://www.udemy.com/certificate/UC-7a937ba9-c03f-49e4-8961-8b627a98ea78/
