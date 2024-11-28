@@ -3,7 +3,7 @@
 Hello my name is Murat i was born 15/01/2001. I am from Kazakhstan, but I am living in Turkey now. 
 I study in University Sabahattin Zaim, department - software engineer.
 I learn С, C++.
-I have Codecademy certificates:
+I have Codecademy, freecampcode, and udemy certificates:
 
 # PHP PART
 
@@ -19,7 +19,6 @@ I have Codecademy certificates:
 2)Learn JavaScript Course: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/705dcb15de0da4dd9d9fc4f3274b430e
 
 
-# (UDEMY)
 # HTML/CSS
 
 1)learn html/css for beginner: https://www.udemy.com/certificate/UC-593403a9-bf41-4c23-a24c-63f55b924c5a/
