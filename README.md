@@ -5,7 +5,7 @@ I study in University Sabahattin Zaim, department - software engineer.
 I learn С, C++.
 I have Codecademy certificates:
 
-PHP PART
+**PHP PART**
 
 1)Learn Intermediate PHP Course: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/265bef867da9492fb4bb193cc0841f99
 
