@@ -20,6 +20,8 @@ I have Codecademy, freecampcode, and udemy certificates:
 
 3)Learn JavaScript: Fundamentals Course: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/6494a05213df47028c37a0fe6e70a202
 
+4)Learn jQuery: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/0becf7c1cd2bd715f24331dddd23425a
+
 
 # HTML/CSS 
 
