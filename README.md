@@ -1,6 +1,6 @@
 # 💼 JavaScript Portfolio Projects
 
-Hi! My name is Murat. I’m an aspiring Full Stack Engineer currently studying Software Engineering at university and learning independently through platforms like Codecademy. My goal is to build high-quality web applications and continuously improve my skills through real-world projects and contributions.
+Hi! My name is Murat. I’m an aspiring Full Stack Engineer currently studying Software Engineering at university Sabahattin Zaim and learning independently through platforms like Codecademy. My goal is to build high-quality web applications and continuously improve my skills through real-world projects and contributions.
 
 This repository contains a collection of JavaScript projects developed as part of my learning and portfolio.
 
