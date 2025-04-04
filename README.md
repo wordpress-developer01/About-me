@@ -1,32 +1,27 @@
-# About-me
+# 💼 JavaScript Portfolio Projects
 
-Hello my name is Murat i was born 15/01/2001. I am from Kazakhstan, but I am living in Turkey now. 
-I study in University Sabahattin Zaim, department - software engineer.
-I learn С, C++.
-I have Codecademy, freecampcode, and udemy certificates:
+Hi! My name is Murat. I’m an aspiring Full Stack Engineer currently studying Software Engineering at university and learning independently through platforms like Codecademy. My goal is to build high-quality web applications and continuously improve my skills through real-world projects and contributions.
 
-# PHP 
+This repository contains a collection of JavaScript projects developed as part of my learning and portfolio.
 
-1)Learn Intermediate PHP Course: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/265bef867da9492fb4bb193cc0841f99
+---
 
-2)Learn PHP Skill Path: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/9b7bcc38d0ed49f593228763cbfd51e3
+## 🌟 Project 1: [big-project.js](./big-project.js)
 
+**Description:**  
+This project is a motivational message generator built for a portfolio assignment on Codecademy. It demonstrates core JavaScript concepts such as array manipulation, functions, and random selection logic.
 
-# JAVASCRIPT 
+**What it does:**
+- Randomly selects one phrase from each of the three arrays: `firstly`, `secondly`, and `thirdly`;
+- Combines them into a complete motivational message;
+- Logs the result to the console;
+- Each execution gives a new, unique message.
 
-1)Learn Intermediate JavaScript Course: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/512386fdc7f6c934f98b01e6afa8285a
+**Sample Output:**
 
-2)Learn JavaScript Course: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/705dcb15de0da4dd9d9fc4f3274b430e
+```bash
+$ node big-project.js
 
-3)Learn JavaScript: Fundamentals Course: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/6494a05213df47028c37a0fe6e70a202
+🌟 Your message for today 🌟
 
-4)Learn jQuery: https://www.codecademy.com/profiles/MuratbekNassyrov/certificates/0becf7c1cd2bd715f24331dddd23425a
-
-
-# HTML/CSS 
-
-1)learn html/css for beginner: https://www.udemy.com/certificate/UC-593403a9-bf41-4c23-a24c-63f55b924c5a/
-
-# LINUX 
-
-1)Learn Linux: https://www.udemy.com/certificate/UC-7a937ba9-c03f-49e4-8961-8b627a98ea78/
+Don't forget: even a mistake is part of success. Do something useful.
