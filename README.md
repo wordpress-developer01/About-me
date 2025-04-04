@@ -6,7 +6,8 @@ This repository contains a collection of JavaScript projects developed as part o
 
 ---
 
-## 🌟 Project 1: [big-project.js](https://github.com/wordpress-developer01/js-portfolio/blob/main/big-project.js)
+## 🌟 Project 1: [big-project.js](https://github.com/wordpress-developer01/code-projects/blob/main/big-project.js)
+
 
 **Description:**  
 This project is a motivational message generator built for a portfolio assignment on Codecademy. It demonstrates core JavaScript concepts such as array manipulation, functions, and random selection logic.
