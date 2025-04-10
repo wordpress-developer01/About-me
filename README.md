@@ -43,7 +43,6 @@ This project is a responsive portfolio website created by **Muratbek Nassyrov** 
 **Live Demo:**  
 🔗 [wordpress-developer01.github.io/PRO-1](https://wordpress-developer01.github.io/PRO-1)
 
-**Screenshot Preview:**
 
 
 
