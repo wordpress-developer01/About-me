@@ -45,21 +45,6 @@ This project is a responsive portfolio website created by **Muratbek Nassyrov** 
 
 **Screenshot Preview:**
 
-```bash
-📂 project/
-├── index.html
-├── contact.html
-├── CSS/
-│   └── style.css
-├── JS/
-│   └── script.js
-├── img/
-│   └── myphoto.jpg
-```
-
----
-
-Если хочешь — могу адаптировать под `README.md`, добавить значки технологий, SEO-описание или markdown для Upwork/LinkedIn.
 
 
 
