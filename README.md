@@ -26,3 +26,41 @@ $ node big-project.js
 🌟 Your message for today 🌟
 
 Don't forget: even a mistake is part of success. Do something useful.
+```
+
+## 🌐 Project: [Portfolio Website](https://github.com/wordpress-developer01/PRO-1)
+
+**Description:**  
+This project is a responsive portfolio website created by **Muratbek Nassyrov** as part of a personal web development showcase. It demonstrates practical skills in **HTML**, **CSS**, and **JavaScript**, along with clean layout structure and basic interactivity.
+
+**What it does:**
+- Displays personal introduction and developer profile;
+- Lists featured projects with “View Project” buttons;
+- Includes a styled contact form;
+- Uses folder structure (`CSS/`, `JS/`, `img/`) for modular organization;
+- Designed to work well on both desktop and mobile.
+
+**Live Demo:**  
+🔗 [wordpress-developer01.github.io/PRO-1](https://wordpress-developer01.github.io/PRO-1)
+
+**Screenshot Preview:**
+
+```bash
+📂 project/
+├── index.html
+├── contact.html
+├── CSS/
+│   └── style.css
+├── JS/
+│   └── script.js
+├── img/
+│   └── myphoto.jpg
+```
+
+---
+
+Если хочешь — могу адаптировать под `README.md`, добавить значки технологий, SEO-описание или markdown для Upwork/LinkedIn.
+
+
+
+
