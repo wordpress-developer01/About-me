@@ -28,7 +28,7 @@ $ node big-project.js
 Don't forget: even a mistake is part of success. Do something useful.
 ```
 
-## 🌐 Project: [Portfolio Website](https://github.com/wordpress-developer01/PRO-1)
+## 🌐 Project 2: [Portfolio Website](https://github.com/wordpress-developer01/PRO-1)
 
 **Description:**  
 This project is a responsive portfolio website created by **Muratbek Nassyrov** as part of a personal web development showcase. It demonstrates practical skills in **HTML**, **CSS**, and **JavaScript**, along with clean layout structure and basic interactivity.
