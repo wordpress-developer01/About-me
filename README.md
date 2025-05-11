@@ -77,7 +77,7 @@ cd Weather-control-app
 npm install
 npm start
 
-## Live Demo [Weather](wordpress-developer01.github.io/Weather-control-app/)
+ **Live Demo** [Weather](wordpress-developer01.github.io/Weather-control-app/)
 
 
 
