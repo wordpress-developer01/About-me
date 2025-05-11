@@ -44,7 +44,7 @@ This project is a responsive portfolio website created by **Muratbek Nassyrov** 
 🔗 [wordpress-developer01.github.io/PRO-1](https://wordpress-developer01.github.io/PRO-1)
 
 
-## Project 3: [Weather](wordpress-developer01.github.io/Weather-control-app/)
+## Project 3: [Weather](https://wordpress-developer01.github.io/Weather-control-app/)
 
 **🌤️ Weather Control App**
 Weather Control App is a modern and responsive weather application built with React.js, allowing users to retrieve real-time weather information by entering any city name. The app fetches weather data from the OpenWeatherMap API and displays key metrics such as temperature, country, pressure, and sunset time.
